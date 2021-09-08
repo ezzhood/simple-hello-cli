@@ -30,4 +30,4 @@ npm uninstall -g cli-app-by-node
 
 Screenshot of command line after uninstalling script
 
-![image](./screenshots/testing-uninstalled-cli.png)
+![image](./screenshots/uninstalled-cli.png)
