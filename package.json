@@ -1,14 +1,26 @@
 {
   "name": "cli-app-by-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the simplest cli tool written for testing purposes in nodejs",
   "main": "bin/index.js",
   "bin": {
     "hello": "./bin/index.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "eziz-hudayberdiyev",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "url": "https://github.com/eziz-hudayberdiyev/simple-hello-cli.git"
   },
-  "author": "Eziz Hudayberdiyev",
-  "license": "MIT"
+  "bugs": {
+    "email": "ezizhudayberdiyev123456@gmail.com",
+    "url": "https://github.com/eziz-hudayberdiyev/simple-hello-cli/issues"
+  },
+  "keywords": [
+    "cli",
+    "command-line-tool",
+    "cli-in-nodejs",
+    "node-cli",
+    "hello-cli"
+  ]
 }
